@@ -137,6 +137,7 @@ public class MainFrame extends javax.swing.JFrame {
     private void btnResetActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnResetActionPerformed
         // TODO add your handling code here:
         lblCount.setText("0");
+        count = 0;
     }//GEN-LAST:event_btnResetActionPerformed
 
     /**
