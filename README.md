@@ -3,6 +3,6 @@
 ## Contributing
 Fork the repo and make pull requests.
 
-##Projects
+## Projects
 
-###Simple Counter
+### Simple Counter
