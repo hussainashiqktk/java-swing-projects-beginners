@@ -1,4 +1,8 @@
 # java-swing-projects-beginners
 
+## Contributing
+Fork the repo and make pull requests.
 
-1. Simple Counter
+##Projects
+
+###Simple Counter
